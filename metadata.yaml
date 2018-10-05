@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Orkney and Shetland Folk 872-1350
 url: http://www.gutenberg.org/ebooks/50249
